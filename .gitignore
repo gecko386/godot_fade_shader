@@ -1,0 +1,12 @@
+# Import cache
+.import/
+
+# Binaries
+bin/
+build/
+lib/
+
+# files to exclude
+*.import
+*.pck
+*.x86_64
