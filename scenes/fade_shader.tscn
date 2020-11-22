@@ -1,6 +1,6 @@
 [gd_scene load_steps=22 format=2]
 
-[ext_resource path="res://scripts/OmniLight.gd" type="Script" id=1]
+[ext_resource path="res://scripts/omni_light.gd" type="Script" id=1]
 [ext_resource path="res://tres/fade_noise.tres" type="Texture" id=2]
 [ext_resource path="res://scripts/fade_shader.gd" type="Script" id=4]
 
