@@ -13,5 +13,4 @@ func _ready():
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
-	#return
-	set_shadow_detail(SHADOW_DETAIL_HORIZONTAL)
+	set_shadow_detail(set_shadow_detail())
