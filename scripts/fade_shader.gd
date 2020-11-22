@@ -26,7 +26,6 @@ func _process(delta):
 func _input(event):
 	# Mouse in viewport coordinates.
 	if event is InputEventMouseButton and event.pressed:
-		print("Mouse Click: ", event.position)
 		activate_die()
 
 func activate_die():
